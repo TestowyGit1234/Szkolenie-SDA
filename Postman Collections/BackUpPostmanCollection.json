@@ -414,18 +414,6 @@
 				}
 			},
 			"response": []
-		},
-		{
-			"name": "Star",
-			"id": "b079964d-75d8-4b8b-8137-d2f3ea7c2cac",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
 		}
 	]
 }
