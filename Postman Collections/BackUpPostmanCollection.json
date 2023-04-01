@@ -340,7 +340,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "Update Org",
 			"id": "d6870274-25d5-442b-a030-7a574aa7ae9c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
