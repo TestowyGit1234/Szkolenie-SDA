@@ -7,7 +7,7 @@
 	"item": [
 		{
 			"name": "New Request",
-			"_postman_id": "4211b96e-c44d-43e0-9571-675da71b749d",
+			"id": "4211b96e-c44d-43e0-9571-675da71b749d",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -29,7 +29,7 @@
 		},
 		{
 			"name": "New Request",
-			"_postman_id": "9b2d9f30-5970-47a9-b2fb-92ca3deb8132",
+			"id": "9b2d9f30-5970-47a9-b2fb-92ca3deb8132",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "New Request",
-			"_postman_id": "56ba0aa3-f4b7-4ed4-b4f1-7a8b6f0b82bb",
+			"id": "56ba0aa3-f4b7-4ed4-b4f1-7a8b6f0b82bb",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -64,7 +64,7 @@
 		},
 		{
 			"name": "kolejny request",
-			"_postman_id": "0b4f0479-9cad-442e-b724-cd1f967448ed",
+			"id": "0b4f0479-9cad-442e-b724-cd1f967448ed",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -86,7 +86,7 @@
 		},
 		{
 			"name": "New Request",
-			"_postman_id": "2bc2dd94-a5f7-458c-838c-4064612a9af8",
+			"id": "2bc2dd94-a5f7-458c-838c-4064612a9af8",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -108,7 +108,7 @@
 		},
 		{
 			"name": "testowy request",
-			"_postman_id": "b98d6213-c814-4a25-89f1-cd723a6cfd9e",
+			"id": "b98d6213-c814-4a25-89f1-cd723a6cfd9e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -130,14 +130,25 @@
 		},
 		{
 			"name": "New Request",
-			"_postman_id": "437d0ab7-d4aa-4c62-9c02-2d30b289e3a4",
+			"id": "437d0ab7-d4aa-4c62-9c02-2d30b289e3a4",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": [],
-				"url": null
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "e5d9bfb7-f027-44fd-999f-23d30ba6ee37",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
 			},
 			"response": []
 		}
