@@ -380,7 +380,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "Get Member",
 			"id": "6f35c0de-505a-46a0-9313-6cdb1fd402e6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
